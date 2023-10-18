@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2023-10-10 16:05:31</change_date>
+        <changed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</changed_by>
+        <content display_value="Collect Data">302c8dc40b2022001e684ac3b6673a16</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-10 16:05:31</sys_created_on>
+        <sys_id>4f9d13a147b57510e14f7d7ba26d434e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2023-10-10 16:05:31</sys_name>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>gsw_change_log_4f9d13a147b57510e14f7d7ba26d434e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-10 16:05:31</sys_updated_on>
+        <type>4</type>
+    </gsw_change_log>
+</record_update>

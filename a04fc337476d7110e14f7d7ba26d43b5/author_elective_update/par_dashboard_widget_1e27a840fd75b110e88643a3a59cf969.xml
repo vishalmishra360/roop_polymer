@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">1627a8404375b11008aa095558ec0d6b</canvas>
+        <component display_value="now-record-list-connected-snapshot">7219cee4e0177c3cf2e48d550ce0f71b</component>
+        <component_props>{"listTitle":"My Work","table":"x_660049_roop_po_0_raw_material","query":"","columns":"","groupByField":"","limit":5,"maxColumns":5,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":false,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":"","fixedQuery":""}</component_props>
+        <h>18</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:57:31</sys_created_on>
+        <sys_id>1e27a840fd75b110e88643a3a59cf969</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>par_dashboard_widget_1e27a840fd75b110e88643a3a59cf969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 05:53:26</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <x>0</x>
+        <y>29</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</application>
+        <file_path/>
+        <instance_id>6557e02bdb06a49007072f17d496198c</instance_id>
+        <instance_name>dev106026</instance_name>
+        <name>par_dashboard_widget_1e27a840fd75b110e88643a3a59cf969</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">1627a8404375b11008aa095558ec0d6b</canvas><component display_value="now-record-list-connected-snapshot">7219cee4e0177c3cf2e48d550ce0f71b</component><component_props>{"listTitle":"My Work","table":"x_660049_roop_po_0_raw_material","query":"","columns":"","groupByField":"","limit":5,"maxColumns":5,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":false,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":"","fixedQuery":""}</component_props><h>18</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-05 10:57:31</sys_created_on><sys_id>1e27a840fd75b110e88643a3a59cf969</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package><sys_policy/><sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope><sys_update_name>par_dashboard_widget_1e27a840fd75b110e88643a3a59cf969</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-11 05:53:26</sys_updated_on><visualization/><w>48</w><x>0</x><y>29</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>226589792</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8acd5ba147b57510e14f7d7ba26d4383</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 07:56:12</sys_created_on>
+        <sys_id>8537f6fd4739b510e14f7d7ba26d433d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b1dbc755d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 07:56:12</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>8d37f6fd8639b510e382f46ceb58a43c</update_guid>
+        <update_guid_history>8d37f6fd8639b510e382f46ceb58a43c:226589792,ce7436b98939b5107e89ff948f904ef6:-1284388500,221b92f5f7b5b5105d71e9293ba58aff:226589792,ab30c67dbcf1b5103ca8dd51b8a4bae4:1927330271,df272c40a475b1103c511d2151388c83:510253126,db272c400875b1100f8dbc11f016cb82:-217312943</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5148f2714779b510e14f7d7ba26d43ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 08:00:52</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>628b68cd73ff4c72a999aa9994229544</sys_id>
+        <sys_metadata>1e27a840fd75b110e88643a3a59cf969</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_scope_delete display_value="">41138bf49e0842c8b2db3dcd7b9a1501</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_1e27a840fd75b110e88643a3a59cf969</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_1e27a840fd75b110e88643a3a59cf969">8537f6fd4739b510e14f7d7ba26d433d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 08:00:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

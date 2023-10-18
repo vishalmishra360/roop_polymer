@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:57:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1227a8403475b1103ad0af600942c872</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>m2m_app_config_theme_1227a8403475b1103ad0af600942c872</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:57:31</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">d227a8401b75b1104ff8ad22b9670f72</theme>
+        <ux_app_configuration display_value="Roop Polymer Config">5e27a8402b75b110f4a28072dd516172</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="create_new_code" label="Create New Code" language="en" table="x_660049_roop_po_0_raw_material">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>create_new_code</element>
+            <help/>
+            <hint/>
+            <label>Create New Code</label>
+            <language>en</language>
+            <name>x_660049_roop_po_0_raw_material</name>
+            <plural>Create New Codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-07 06:29:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Create New Code</sys_name>
+            <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+            <sys_update_name>sys_documentation_x_660049_roop_po_0_raw_material_create_new_code_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-07 06:29:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

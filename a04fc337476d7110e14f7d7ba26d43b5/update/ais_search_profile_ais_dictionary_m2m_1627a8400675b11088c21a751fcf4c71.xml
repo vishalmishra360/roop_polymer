@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="roop-polymer Search Profile">9a27a8401075b110dac6b618e946d471</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:57:31</sys_created_on>
+        <sys_id>1627a8400675b11088c21a751fcf4c71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_synonym_dictionary.roop-polymer Search Profile</sys_name>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_1627a8400675b11088c21a751fcf4c71</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:57:31</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Raw material - CMB">8335fd3d47b1b510e14f7d7ba26d432e</dashboard>
+        <experience display_value="Roop Polymer">1a27a8406d75b110f0becc37e9b16b72</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 03:07:59</sys_created_on>
+        <sys_id>0b35397d47b1b510e14f7d7ba26d4384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>par_dashboard_visibility_0b35397d47b1b510e14f7d7ba26d4384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 03:07:59</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

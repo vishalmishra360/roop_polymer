@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ed8028dc4779f110e14f7d7ba26d4393" label="CMB Master Table" max_length="40" name="x_660049_roop_po_0_cmb_master_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Chemical Code" max_length="40" name="chemical_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Chemical Description" max_length="100" name="chemical_description" type="string"/>
+        <element label="CMB Description" max_length="40" name="cmb_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CMB Receipt Date" max_length="40" name="cmb_receipt_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="FMB Code" max_length="100" name="fmb_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FMB Description" max_length="100" name="fmb_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="CMB Code" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor" max_length="40" name="vendor" type="string"/>
+    </element>
+</database>

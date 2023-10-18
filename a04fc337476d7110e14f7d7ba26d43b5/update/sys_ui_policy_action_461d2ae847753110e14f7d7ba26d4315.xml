@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>qc_validation</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-07 09:59:49</sys_created_on>
+        <sys_id>461d2ae847753110e14f7d7ba26d4315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>qc_validation</sys_name>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>sys_ui_policy_action_461d2ae847753110e14f7d7ba26d4315</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-07 09:59:49</sys_updated_on>
+        <table>x_660049_roop_po_0_fmb_batch</table>
+        <ui_policy display_value="Make QC Validation as Read Only if Completed">61eca2e847753110e14f7d7ba26d43c7</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9da8580847f1b110e14f7d7ba26d430a" label="QC Validation" max_length="40" name="x_660049_roop_po_0_qc_validation" text_index="true" type="collection">
+        <element label="FMB Batch" max_length="32" name="fmb_batch" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="In-progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Passed" sequence="2" value="passed"/>
+                <element inactive_on_update="false" label="Failed" sequence="3" value="failed"/>
+            </choice>
+        </element>
+        <element label="Tested By" max_length="32" name="tested_by" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="fmb_batch"/>
+        </index>
+        <index name="index2">
+            <element name="tested_by"/>
+        </index>
+    </element>
+</database>

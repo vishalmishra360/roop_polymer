@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c13720804775b110e14f7d7ba26d43dd" sys_domain="global" table="x_660049_roop_po_0_raw_material" version="3" view="workspace-roop-polymer-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material_type</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-07 06:30:29</sys_created_on>
+            <sys_id>ee3df9a447713110e14f7d7ba26d438b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_660049_roop_po_0_raw_material" sys_domain="global" view="9227a8407a75b11022f786cafde1a568">c13720804775b110e14f7d7ba26d43dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-07 06:30:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity_kg</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-07 06:30:29</sys_created_on>
+            <sys_id>e23df9a447713110e14f7d7ba26d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_660049_roop_po_0_raw_material" sys_domain="global" view="9227a8407a75b11022f786cafde1a568">c13720804775b110e14f7d7ba26d43dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-07 06:30:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-07 06:30:29</sys_created_on>
+            <sys_id>e63df9a447713110e14f7d7ba26d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_660049_roop_po_0_raw_material" sys_domain="global" view="9227a8407a75b11022f786cafde1a568">c13720804775b110e14f7d7ba26d43dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-07 06:30:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmb_code</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-07 06:30:29</sys_created_on>
+            <sys_id>ea3df9a447713110e14f7d7ba26d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_660049_roop_po_0_raw_material" sys_domain="global" view="9227a8407a75b11022f786cafde1a568">c13720804775b110e14f7d7ba26d43dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-07 06:30:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chemical_code</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-07 06:30:29</sys_created_on>
+            <sys_id>ee3df9a447713110e14f7d7ba26d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_660049_roop_po_0_raw_material" sys_domain="global" view="9227a8407a75b11022f786cafde1a568">c13720804775b110e14f7d7ba26d43dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-07 06:30:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>create_new_code</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-07 06:30:29</sys_created_on>
+            <sys_id>e23df9a447713110e14f7d7ba26d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_660049_roop_po_0_raw_material" sys_domain="global" view="9227a8407a75b11022f786cafde1a568">c13720804775b110e14f7d7ba26d43dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-07 06:30:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-07 06:30:29</sys_created_on>
+            <sys_id>e63df9a447713110e14f7d7ba26d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_660049_roop_po_0_raw_material" sys_domain="global" view="9227a8407a75b11022f786cafde1a568">c13720804775b110e14f7d7ba26d43dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-07 06:30:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_660049_roop_po_0_raw_material</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-05 10:57:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c13720804775b110e14f7d7ba26d43dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_660049_roop_po_0_raw_material</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+            <sys_update_name>sys_ui_section_c13720804775b110e14f7d7ba26d43dd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-05 10:57:41</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Roop Polymer 0" name="workspace-roop-polymer-0">9227a8407a75b11022f786cafde1a568</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

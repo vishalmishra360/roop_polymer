@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e41433b74721b110e14f7d7ba26d437a" label="FMB Batch" max_length="40" name="x_660049_roop_po_0_fmb_batch" type="collection">
+        <element label="Batch Size" max_length="40" name="batch_size" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Chemical Description" max_length="100" name="chemical_description" type="string"/>
+        <element label="Chemical Code" max_length="1024" name="chemical_used" reference="x_660049_roop_po_0_chemical_mater_table" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="CMB Description" max_length="100" name="cmb_description" type="string"/>
+        <element label="CMB Code" max_length="1024" name="cmb_used" reference="x_660049_roop_po_0_cmb_master_table" type="glide_list"/>
+        <element label="FMB Code" max_length="32" name="fmb_code" reference="x_660049_roop_po_0_fmb_master_table" type="reference"/>
+        <element label="Production Date" max_length="40" name="manufacturing_date" type="glide_date"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Batch Number" max_length="40" name="number" type="string"/>
+        <element label="Operator" max_length="32" name="operator" reference="sys_user" type="reference"/>
+        <element choice="3" default="not_started" label="QC Validation" max_length="40" name="qc_validation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Started" sequence="10" value="not_started"/>
+                <element inactive_on_update="false" label="Start" sequence="20" value="start"/>
+                <element inactive_on_update="false" label="Completed" sequence="30" value="completed"/>
+            </choice>
+        </element>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In progress" sequence="0" value="in_progress"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
+            </choice>
+        </element>
+        <element label="Store" max_length="32" name="store" reference="cmn_location" type="reference"/>
+        <index name="index">
+            <element name="operator"/>
+        </index>
+        <index name="index2">
+            <element name="store"/>
+        </index>
+    </element>
+</database>

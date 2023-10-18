@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="528053b7476d7110e14f7d7ba26d434f" label="Raw Material" max_length="40" name="x_660049_roop_po_0_raw_material" text_index="true" type="collection">
+        <element label="Chemical Code" max_length="32" name="chemical_code" reference="x_660049_roop_po_0_chemical_mater_table" type="reference"/>
+        <element label="CMB Code" max_length="32" name="cmb_code" reference="x_660049_roop_po_0_cmb_master_table" type="reference"/>
+        <element label="Create New Code" max_length="40" name="create_new_code" type="boolean"/>
+        <element label="Expiry Date" max_length="255" name="expiry_date" type="glide_date"/>
+        <element label="Manufacturing Date" max_length="255" name="manufacturing_date" type="glide_date"/>
+        <element choice="3" label="Material Type" max_length="40" name="material_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CMB" sequence="0" value="cmb"/>
+                <element inactive_on_update="false" label="Chemical" sequence="1" value="chemical"/>
+            </choice>
+        </element>
+        <element label="Quantity (kg)" max_length="255" name="quantity_kg" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Enter New Code Desciption" max_length="40" name="u_string_1" type="string"/>
+        <element label="Vendor" max_length="200" name="vendor" type="string"/>
+    </element>
+</database>

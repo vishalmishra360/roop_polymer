@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Roop Polymer">da27a840ba75b110fe295761a45bc86a</dashboard>
+        <group/>
+        <role display_value="x_660049_roop_po_0.itil" name="x_660049_roop_po_0.itil">0890d3b7476d7110e14f7d7ba26d439c</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:57:34</sys_created_on>
+        <sys_id>5f272c404775b110e14f7d7ba26d4387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>da27a840ba75b110fe295761a45bc86a</sys_name>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>par_dashboard_permission_5f272c404775b110e14f7d7ba26d4387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:57:34</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

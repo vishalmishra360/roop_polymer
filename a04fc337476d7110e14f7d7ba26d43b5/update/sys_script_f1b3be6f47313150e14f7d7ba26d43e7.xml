@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>true</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_660049_roop_po_0_fmb_batch</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_660049_roop_po_0_fmb_batch">sys_created_onISEMPTY^EQ<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message><![CDATA[<p>Record is created on basis of scanned information</p>]]></message>
+        <name>Scan Now FMB Batch</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-16 18:10:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f1b3be6f47313150e14f7d7ba26d43e7</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Scan Now FMB Batch</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>sys_script_f1b3be6f47313150e14f7d7ba26d43e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-16 18:22:42</sys_updated_on>
+        <template>fmb_code=98038ddc473df110e14f7d7ba26d43df^batch_size=100^cmb_used=ced1495c473df110e14f7d7ba26d4312^chemical_used=e7c249dc473df110e14f7d7ba26d4379^cmb_description=CMB PBNB E10701^chemical_description=CHM MIX FMB NP50^manufacturing_date=2023-10-16^operator=a8f98bb0eb32010045e1a5115206fe3a^qc_validation=not_started^state=in_progress^EQ</template>
+        <when>before_display</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=f1b3be6f47313150e14f7d7ba26d43e7"/>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d3799c4847f1b110e14f7d7ba26d43ae" label="Machine" max_length="40" name="x_660049_roop_po_0_machine" text_index="true" type="collection">
+        <element label="Machine Name" max_length="40" name="machine_nam0" type="string"/>
+        <element label="Machine name" max_length="40" name="machine_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Machine Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

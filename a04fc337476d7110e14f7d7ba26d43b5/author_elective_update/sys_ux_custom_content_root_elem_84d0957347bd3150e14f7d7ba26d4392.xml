@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="DELETE">
+        <active>true</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="Roop Polymer">1a27a8406d75b110f0becc37e9b16b72</applicable_page>
+        <attrs/>
+        <children/>
+        <component display_value="now-uxf-page">9c38d25e67a0330075e8ebc172415a21</component>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config/>
+        <name>Roop Polymer Landing Page</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Landing Page Placeholder">51a768297710330022f7f4d26810617d</placeholder>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 05:37:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>84d0957347bd3150e14f7d7ba26d4392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Roop Polymer Landing Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_84d0957347bd3150e14f7d7ba26d4392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 05:37:11</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="DELETE" query="document_key=84d0957347bd3150e14f7d7ba26d4392"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>84d0957347bd3150e14f7d7ba26d4392</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 05:37:11</sys_created_on>
+        <sys_id>83e0597347bd3150e14f7d7ba26d43af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 05:37:11</sys_updated_on>
+        <value/>
+        <variable display_value="Optional Page Title">74b9169e67a0330075e8ebc172415a1f</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</application>
+        <file_path/>
+        <instance_id>6557e02bdb06a49007072f17d496198c</instance_id>
+        <instance_name>dev106026</instance_name>
+        <name>sys_ux_custom_content_root_elem_84d0957347bd3150e14f7d7ba26d4392</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem"><sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE"><active>true</active><applicability>single</applicability><applicable_page display_value="Roop Polymer">1a27a8406d75b110f0becc37e9b16b72</applicable_page><attrs/><children/><component display_value="now-uxf-page">9c38d25e67a0330075e8ebc172415a21</component><is_root>true</is_root><layout/><macroponent/><macroponent_config/><name>Roop Polymer Landing Page</name><order>0</order><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><parent/><parent_slot/><picker/><picker_condition/><placeholder display_value="Landing Page Placeholder">51a768297710330022f7f4d26810617d</placeholder><sys_class_name>sys_ux_custom_content_root_elem</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-17 05:37:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>84d0957347bd3150e14f7d7ba26d4392</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Roop Polymer Landing Page</sys_name><sys_overrides/><sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package><sys_policy/><sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope><sys_update_name>sys_ux_custom_content_root_elem_84d0957347bd3150e14f7d7ba26d4392</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-17 05:37:11</sys_updated_on><tree_root/></sys_ux_custom_content_root_elem><sys_variable_value action="delete_multiple" query="document_key=84d0957347bd3150e14f7d7ba26d4392"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_custom_content_root_elem</document><document_key>84d0957347bd3150e14f7d7ba26d4392</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-17 05:37:11</sys_created_on><sys_id>83e0597347bd3150e14f7d7ba26d43af</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-17 05:37:11</sys_updated_on><value/><variable display_value="Optional Page Title">74b9169e67a0330075e8ebc172415a1f</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>296960442</payload_hash>
+        <record_name>Roop Polymer Landing Page</record_name>
+        <reverted_from/>
+        <source>a04fc337476d7110e14f7d7ba26d43b7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 05:37:11</sys_created_on>
+        <sys_id>c7e0597347bd3150e14f7d7ba26d43b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b3c2358cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 05:37:11</sys_updated_on>
+        <type>UX Custom Content Extension</type>
+        <update_guid>0fe059738ebd315089328da78b867ab1</update_guid>
+        <update_guid_history>0fe059738ebd315089328da78b867ab1:296960442</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 05:39:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_custom_content_root_elem">sys_ux_custom_content_root_elem</sys_db_object>
+        <sys_id>405deb48960e473e90927d123cb90b69</sys_id>
+        <sys_metadata>84d0957347bd3150e14f7d7ba26d4392</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Roop Polymer Landing Page</sys_name>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_scope_delete display_value="">41138bf49e0842c8b2db3dcd7b9a1501</sys_scope_delete>
+        <sys_update_name>sys_ux_custom_content_root_elem_84d0957347bd3150e14f7d7ba26d4392</sys_update_name>
+        <sys_update_version display_value="sys_ux_custom_content_root_elem_84d0957347bd3150e14f7d7ba26d4392">c7e0597347bd3150e14f7d7ba26d43b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 05:39:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

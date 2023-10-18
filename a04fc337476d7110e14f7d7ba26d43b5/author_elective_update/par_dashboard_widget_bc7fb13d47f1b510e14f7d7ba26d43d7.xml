@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">1627a8404375b11008aa095558ec0d6b</canvas>
+        <component display_value="">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"newReporting":false,"showSparkline":false,"dataPassthrough":null,"configVersion":"23.0.0-ci-SNAPSHOT","groupBy":null,"trendBy":null,"showMaximumRange":false,"enableRealTimeUpdate":false,"scoreType":null,"showScoreUpdateTime":false,"colorConfig":{"type":"default"}}</component_props>
+        <h>10</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 03:52:37</sys_created_on>
+        <sys_id>bc7fb13d47f1b510e14f7d7ba26d43d7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>par_dashboard_widget_bc7fb13d47f1b510e14f7d7ba26d43d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 05:53:26</sys_updated_on>
+        <visualization/>
+        <w>8</w>
+        <x>0</x>
+        <y>47</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</application>
+        <file_path/>
+        <instance_id>6557e02bdb06a49007072f17d496198c</instance_id>
+        <instance_name>dev106026</instance_name>
+        <name>par_dashboard_widget_bc7fb13d47f1b510e14f7d7ba26d43d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">1627a8404375b11008aa095558ec0d6b</canvas><component display_value="">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"newReporting":false,"showSparkline":false,"dataPassthrough":null,"configVersion":"23.0.0-ci-SNAPSHOT","groupBy":null,"trendBy":null,"showMaximumRange":false,"enableRealTimeUpdate":false,"scoreType":null,"showScoreUpdateTime":false,"colorConfig":{"type":"default"}}</component_props><h>10</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-11 03:52:37</sys_created_on><sys_id>bc7fb13d47f1b510e14f7d7ba26d43d7</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package><sys_policy/><sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope><sys_update_name>par_dashboard_widget_bc7fb13d47f1b510e14f7d7ba26d43d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-11 05:53:26</sys_updated_on><visualization/><w>8</w><x>0</x><y>47</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1165725997</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8acd5ba147b57510e14f7d7ba26d4383</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 07:55:26</sys_created_on>
+        <sys_id>b9077ebd4739b510e14f7d7ba26d4363</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b1dbbc4c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 07:55:26</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>b1077ebdae39b510e79262f5a42a1363</update_guid>
+        <update_guid_history>b1077ebdae39b510e79262f5a42a1363:-1165725997,427476b95639b510c07efd4208a9f128:-93140409,ea1bd2f5cab5b510d9d98761d2210a01:-1165725997,a330c67d46f1b510ff801298434939e7:535014482,f07fb13d5af1b51005ec08ce4986c8d9:-882062663</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6d4836714779b510e14f7d7ba26d4321</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 08:00:52</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0afb806dc0be4d14af139d4739de6190</sys_id>
+        <sys_metadata>bc7fb13d47f1b510e14f7d7ba26d43d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_scope_delete display_value="">41138bf49e0842c8b2db3dcd7b9a1501</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_bc7fb13d47f1b510e14f7d7ba26d43d7</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_bc7fb13d47f1b510e14f7d7ba26d43d7">b9077ebd4739b510e14f7d7ba26d4363</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 08:00:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

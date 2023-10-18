@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a5a2689047b9f110e14f7d7ba26d4316" label="FMB Master Table" max_length="40" name="x_660049_roop_po_0_fmb_master_table" type="collection">
+        <element label="FMB Description" max_length="40" name="fmb_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="FMB Code" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Production Date" max_length="40" name="production_date" type="glide_date"/>
+    </element>
+</database>

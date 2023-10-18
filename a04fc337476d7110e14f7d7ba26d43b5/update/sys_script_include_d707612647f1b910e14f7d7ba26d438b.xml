@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_660049_roop_po_0.returnCMBDescription</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>returnCMBDescription</name>
+        <script><![CDATA[var returnCMBDescription = Class.create();
+returnCMBDescription.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+            returnCMBDescription: function() {
+
+                var fmb = this.getParameter('sysparm_fmb');
+                var cmb = [];
+				var des=[];
+                var gr = new GlideRecord('x_660049_roop_po_0_fmb_batch');
+                gr.addQuery('sys_id', fmb);
+                gr.query();
+                if (gr.next()) {
+                    cmb = gr.cmb_used;
+                }
+                var array = cmb.split(",");
+                for (var i = 0; i < array.length; i++) {
+					var gr1= new GlideRecord('x_660049_roop_po_0_cmb_master_table');
+				    gr1.addQuery('sys_id',array[i]);
+					gr1.query();
+					if(gr1.next()){
+						gs.info('VK1'+ gr1.cmb_description);
+                     des.push(gr1.cmb_description);
+					}
+				}
+				gs.info('X2',des);
+				return des.toString();
+
+                },
+
+                type: 'returnCMBDescription'
+            });]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 10:03:09</sys_created_on>
+        <sys_id>d707612647f1b910e14f7d7ba26d438b</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>returnCMBDescription</sys_name>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>sys_script_include_d707612647f1b910e14f7d7ba26d438b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 11:21:56</sys_updated_on>
+    </sys_script_include>
+</record_update>

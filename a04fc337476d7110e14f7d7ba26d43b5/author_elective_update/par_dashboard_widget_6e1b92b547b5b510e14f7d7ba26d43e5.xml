@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">1627a8404375b11008aa095558ec0d6b</canvas>
+        <component display_value="">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"newReporting":false,"showSparkline":false,"dataPassthrough":null,"configVersion":"23.0.0-ci-SNAPSHOT","groupBy":null,"trendBy":null,"showMaximumRange":false,"enableRealTimeUpdate":true,"scoreType":null,"showScoreUpdateTime":true,"colorConfig":{"type":"default"},"showDataPassthrough":false,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"FMB Batch","sourceType":"table","tableOrViewName":"x_660049_roop_po_0_fmb_batch","filterQuery":"manufacturing_dateONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzY2MDA0OV9yb29wX3BvXzBfZm1iX2JhdGNoMTY5NzAwMzQxNDA1NA==","dataCategories":["trend","group","simple"]}],"metrics":[{"dataSource":"dGFibGV4XzY2MDA0OV9yb29wX3BvXzBfZm1iX2JhdGNoMTY5NzAwMzQxNDA1NA==","id":"ZEdGaWJHVjRYelkyTURBME9WOXliMjl3WDNCdlh6QmZabTFpWDJKaGRHTm9NVFk1TnpBd016UXhOREExTkE9PTE2OTcwMDM0MTUyMDg=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"showFilterIcon":true,"followFilters":true,"applyDateRange":false,"showChange":false,"showTarget":false,"showGapPercentage":false,"showScoreDate":false,"showChangePercentage":false,"showChangeFrom":false,"showMetricLabel":false,"showZero":true,"enableCustomEmptyState":false,"showHeader":true,"headerTitle":"FMB batches Today","description":"Shows the FMB batches run today","showBorder":true,"bareBorder":false,"showHeaderSeparator":true,"wrapTitle":false}</component_props>
+        <h>10</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 05:53:26</sys_created_on>
+        <sys_id>6e1b92b547b5b510e14f7d7ba26d43e5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>par_dashboard_widget_6e1b92b547b5b510e14f7d7ba26d43e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 05:54:53</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <x>0</x>
+        <y>19</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</application>
+        <file_path/>
+        <instance_id>6557e02bdb06a49007072f17d496198c</instance_id>
+        <instance_name>dev106026</instance_name>
+        <name>par_dashboard_widget_6e1b92b547b5b510e14f7d7ba26d43e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">1627a8404375b11008aa095558ec0d6b</canvas><component display_value="">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"newReporting":false,"showSparkline":false,"dataPassthrough":null,"configVersion":"23.0.0-ci-SNAPSHOT","groupBy":null,"trendBy":null,"showMaximumRange":false,"enableRealTimeUpdate":true,"scoreType":null,"showScoreUpdateTime":true,"colorConfig":{"type":"default"},"showDataPassthrough":false,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"FMB Batch","sourceType":"table","tableOrViewName":"x_660049_roop_po_0_fmb_batch","filterQuery":"manufacturing_dateONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzY2MDA0OV9yb29wX3BvXzBfZm1iX2JhdGNoMTY5NzAwMzQxNDA1NA==","dataCategories":["trend","group","simple"]}],"metrics":[{"dataSource":"dGFibGV4XzY2MDA0OV9yb29wX3BvXzBfZm1iX2JhdGNoMTY5NzAwMzQxNDA1NA==","id":"ZEdGaWJHVjRYelkyTURBME9WOXliMjl3WDNCdlh6QmZabTFpWDJKaGRHTm9NVFk1TnpBd016UXhOREExTkE9PTE2OTcwMDM0MTUyMDg=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"showFilterIcon":true,"followFilters":true,"applyDateRange":false,"showChange":false,"showTarget":false,"showGapPercentage":false,"showScoreDate":false,"showChangePercentage":false,"showChangeFrom":false,"showMetricLabel":false,"showZero":true,"enableCustomEmptyState":false,"showHeader":true,"headerTitle":"FMB batches Today","description":"Shows the FMB batches run today","showBorder":true,"bareBorder":false,"showHeaderSeparator":true,"wrapTitle":false}</component_props><h>10</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-11 05:53:26</sys_created_on><sys_id>6e1b92b547b5b510e14f7d7ba26d43e5</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package><sys_policy/><sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope><sys_update_name>par_dashboard_widget_6e1b92b547b5b510e14f7d7ba26d43e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-11 05:54:53</sys_updated_on><visualization/><w>16</w><x>0</x><y>19</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>292735570</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8acd5ba147b57510e14f7d7ba26d4383</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 07:57:02</sys_created_on>
+        <sys_id>8567fafd4739b510e14f7d7ba26d43a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b1dbd39200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 07:57:02</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>8d67fafd0839b51094dfe7842109bea1</update_guid>
+        <update_guid_history>8d67fafd0839b51094dfe7842109bea1:292735570,c27476b95239b51061250ae442423d19:-1226638906,047b5af139b5b5104117ca424b2cb3a7:292735570,a21b92b534b5b51092bf6de2f53f87e7:-304203245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e54836714779b510e14f7d7ba26d4304</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 08:00:52</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>2514b3e1e3044f4089f9d69927ebc681</sys_id>
+        <sys_metadata>6e1b92b547b5b510e14f7d7ba26d43e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_scope_delete display_value="">41138bf49e0842c8b2db3dcd7b9a1501</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_6e1b92b547b5b510e14f7d7ba26d43e5</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_6e1b92b547b5b510e14f7d7ba26d43e5">8567fafd4739b510e14f7d7ba26d43a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 08:00:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

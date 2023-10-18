@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Add Raw Materials">9de84558477df110e14f7d7ba26d43f3</sc_cat_item>
+        <sc_catalog display_value="Supply Chain Management">bfd952777701301089db5d9c4f5a998a</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-06 08:08:11</sys_created_on>
+        <sys_id>b7f905d8477df110e14f7d7ba26d43ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain Management.Add Raw Materials</sys_name>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b7f905d8477df110e14f7d7ba26d43ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-06 08:08:11</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

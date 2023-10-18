@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a22f945c4779f110e14f7d7ba26d4322" label="Chemical Master Table" max_length="40" name="x_660049_roop_po_0_chemical_mater_table" type="collection">
+        <element label="Chemical Item Code Description" max_length="40" name="chemical_item_code_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Chemical Item Code" max_length="1024" name="number" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e2e9988847f1b110e14f7d7ba26d434e" label="Component" max_length="40" name="x_660049_roop_po_0_product" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="Chemical Batch" max_length="32" name="chemical_batch" reference="x_660049_roop_po_0_chemical_mater_table" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Chemical Description" max_length="400" name="chemical_description" type="string"/>
+        <element attributes="encode_utf8=false" label="CMB Batch" max_length="32" name="cmb_batch" reference="x_660049_roop_po_0_cmb_master_table" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="CMB Description" max_length="400" name="cmb_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Component" max_length="40" name="component" type="string"/>
+        <element label="Description" max_length="120" name="description" type="string"/>
+        <element label="FMB Batch" max_length="32" name="fmb_batch" reference="x_660049_roop_po_0_fmb_batch" type="reference"/>
+        <element label="Machine Number" max_length="32" name="machine" reference="x_660049_roop_po_0_machine" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Part Number" max_length="40" name="number" type="string"/>
+        <element label="Operator" max_length="40" name="operator" type="string"/>
+        <element label="Part No" max_length="40" name="part_no" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Production Date" max_length="40" name="production_date" type="glide_date"/>
+        <index name="index">
+            <element name="chemical_batch"/>
+        </index>
+        <index name="index2">
+            <element name="cmb_batch"/>
+        </index>
+        <index name="index3">
+            <element name="fmb_batch"/>
+        </index>
+        <index name="index4">
+            <element name="machine"/>
+        </index>
+    </element>
+</database>

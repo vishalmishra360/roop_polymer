@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
+    <pa_cubes action="INSERT_OR_UPDATE">
+        <benchmarking>false</benchmarking>
+        <calendar>standard</calendar>
+        <calendar_freq/>
+        <conditions table="x_660049_roop_po_0_fmb_batch">state=completed^manufacturing_dateONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()<item display_value="Completed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="completed"/>
+            <item endquery="false" field="manufacturing_date" goto="false" newquery="false" operator="ON" or="false" value="Today@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()"/>
+        </conditions>
+        <description/>
+        <facts_table>x_660049_roop_po_0_fmb_batch</facts_table>
+        <facts_table_pk/>
+        <facts_table_pktable/>
+        <facts_table_pkview/>
+        <frequency>10</frequency>
+        <max_record_fetch_count>50000</max_record_fetch_count>
+        <name>FNB per day</name>
+        <override_record_collection>false</override_record_collection>
+        <report_source/>
+        <report_source_updated_at/>
+        <sys_class_name>pa_cubes</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-10 16:11:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>891e53e147b57510e14f7d7ba26d43c3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FNB per day</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Roop Polymer" source="x_660049_roop_po_0">a04fc337476d7110e14f7d7ba26d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roop Polymer">a04fc337476d7110e14f7d7ba26d43b5</sys_scope>
+        <sys_update_name>pa_cubes_891e53e147b57510e14f7d7ba26d43c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-10 16:13:01</sys_updated_on>
+    </pa_cubes>
+    <sys_translated_text action="delete_multiple" query="documentkey=891e53e147b57510e14f7d7ba26d43c3"/>
+</record_update>
